@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 613c5577449ce5e4eade9a389071b6e0, type: 3}
+  m_Name: VelocityProviderExample
+  m_EditorClassIdentifier: 
+  _playInfos:
+  - Clip: {fileID: 8300000, guid: 833a4a0c0e4d14746a20b781b1e56aef, type: 3}
+    PitchRange: {x: 0.6, y: 1.5}
+  - Clip: {fileID: 8300000, guid: 97c3c04611453ef40bc67af79f48462b, type: 3}
+    PitchRange: {x: 0.9, y: 2}
+  - Clip: {fileID: 8300000, guid: bb6c33886caa4f34198d5761d9ef367d, type: 3}
+    PitchRange: {x: 0, y: 1}
+  - Clip: {fileID: 8300000, guid: 6e24a0125a880a6409cd197a72987308, type: 3}
+    PitchRange: {x: -0.5, y: 1.7}
+  - Clip: {fileID: 8300000, guid: a23c1ff6afbc0b447a7f50d8db484042, type: 3}
+    PitchRange: {x: 0, y: 1.9}
+  - Clip: {fileID: 8300000, guid: bc4f203f41837904fb8aa54b9eaabb47, type: 3}
+    PitchRange: {x: -1, y: 2}
+  _velocityRange: {x: 0, y: 10}

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/20190103_TestTutorial.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 69873cd55a0f26044bfcf087928912b4
+timeCreated: 1499983850
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BoltHead10
+    100002: BoltHead11
+    100004: BoltHead12
+    100006: BoltHead13
+    100008: BoltHead14
+    100010: BoltHead15
+    100012: BoltHead16
+    100014: BoltHead17
+    100016: BoltHead18
+    100018: BoltHead3
+    100020: BoltHead4
+    100022: BoltHead5
+    100024: BoltHead6
+    100026: BoltHead7
+    100028: BoltHead8
+    100030: BoltHead9
+    100032: EmbossedLogo3
+    100034: platform
+    100036: //RootNode
+    400000: BoltHead10
+    400002: BoltHead11
+    400004: BoltHead12
+    400006: BoltHead13
+    400008: BoltHead14
+    400010: BoltHead15
+    400012: BoltHead16
+    400014: BoltHead17
+    400016: BoltHead18
+    400018: BoltHead3
+    400020: BoltHead4
+    400022: BoltHead5
+    400024: BoltHead6
+    400026: BoltHead7
+    400028: BoltHead8
+    400030: BoltHead9
+    400032: EmbossedLogo3
+    400034: platform
+    400036: //RootNode
+    2300000: BoltHead10
+    2300002: BoltHead11
+    2300004: BoltHead12
+    2300006: BoltHead13
+    2300008: BoltHead14
+    2300010: BoltHead15
+    2300012: BoltHead16
+    2300014: BoltHead17
+    2300016: BoltHead18
+    2300018: BoltHead3
+    2300020: BoltHead4
+    2300022: BoltHead5
+    2300024: BoltHead6
+    2300026: BoltHead7
+    2300028: BoltHead8
+    2300030: BoltHead9
+    2300032: EmbossedLogo3
+    2300034: platform
+    3300000: BoltHead10
+    3300002: BoltHead11
+    3300004: BoltHead12
+    3300006: BoltHead13
+    3300008: BoltHead14
+    3300010: BoltHead15
+    3300012: BoltHead16
+    3300014: BoltHead17
+    3300016: BoltHead18
+    3300018: BoltHead3
+    3300020: BoltHead4
+    3300022: BoltHead5
+    3300024: BoltHead6
+    3300026: BoltHead7
+    3300028: BoltHead8
+    3300030: BoltHead9
+    3300032: EmbossedLogo3
+    3300034: platform
+    4300000: BoltHead3
+    4300002: BoltHead4
+    4300004: BoltHead5
+    4300006: BoltHead6
+    4300008: BoltHead7
+    4300010: BoltHead8
+    4300012: BoltHead9
+    4300014: BoltHead10
+    4300016: BoltHead11
+    4300018: BoltHead12
+    4300020: BoltHead13
+    4300022: BoltHead14
+    4300024: BoltHead15
+    4300026: BoltHead16
+    4300028: BoltHead17
+    4300030: BoltHead18
+    4300032: platform
+    4300034: EmbossedLogo3
+    11400000: BoltHead10
+    11400002: BoltHead11
+    11400004: BoltHead12
+    11400006: BoltHead13
+    11400008: BoltHead14
+    11400010: BoltHead15
+    11400012: BoltHead16
+    11400014: BoltHead17
+    11400016: BoltHead18
+    11400018: BoltHead3
+    11400020: BoltHead4
+    11400022: BoltHead5
+    11400024: BoltHead6
+    11400026: BoltHead7
+    11400028: BoltHead8
+    11400030: BoltHead9
+    11400032: EmbossedLogo3
+    11400034: platform
+    11400036: //RootNode
+    11400038: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

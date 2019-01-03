@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1a5dc1a6d2d65d489bc68d461cf9680, type: 3}
+  m_Name: clip_jinglebell
+  m_EditorClassIdentifier: 
+  _entries:
+  - PlayInfo:
+      Clip: {fileID: 8300000, guid: 2bcb7b2912ec64ebfa6066a253276e5c, type: 3}
+      PitchRange: {x: 0.8, y: 1.05}
+    Weight: 1
+  - PlayInfo:
+      Clip: {fileID: 8300000, guid: 77e68a9ee20cb43f893a55330e35d9c8, type: 3}
+      PitchRange: {x: 0.8, y: 1.05}
+    Weight: 1
+  - PlayInfo:
+      Clip: {fileID: 8300000, guid: 1b0bbde7ea0f04675898cf8e16aadb6a, type: 3}
+      PitchRange: {x: 0.8, y: 1.05}
+    Weight: 1
+  - PlayInfo:
+      Clip: {fileID: 8300000, guid: 89607f6a918534da2ace11fc366e79a8, type: 3}
+      PitchRange: {x: 0.8, y: 1.05}
+    Weight: 1
+  - PlayInfo:
+      Clip: {fileID: 8300000, guid: e8d2c3673b3414a01914811817dce6d2, type: 3}
+      PitchRange: {x: 0.8, y: 1.05}
+    Weight: 0.852

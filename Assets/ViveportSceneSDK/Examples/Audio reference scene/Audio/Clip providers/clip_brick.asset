@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 613c5577449ce5e4eade9a389071b6e0, type: 3}
+  m_Name: clip_brick
+  m_EditorClassIdentifier: 
+  _playInfos:
+  - Clip: {fileID: 8300000, guid: 3c48ca3e313354934a527034e932326f, type: 3}
+    PitchRange: {x: 0.9, y: 1.05}
+  - Clip: {fileID: 8300000, guid: d282926a7a4eb4b93b04046f12def2b5, type: 3}
+    PitchRange: {x: 0.9, y: 1.05}
+  - Clip: {fileID: 8300000, guid: e5f5693e513714da7a19388c97d4344f, type: 3}
+    PitchRange: {x: 0.9, y: 1.05}
+  - Clip: {fileID: 8300000, guid: c55de3bcf2ccd45fbab4cd4325b596d3, type: 3}
+    PitchRange: {x: 0.9, y: 1.05}
+  - Clip: {fileID: 8300000, guid: 956db27e50f7c4904a6b7b4bb70d9f5d, type: 3}
+    PitchRange: {x: 0.9, y: 1.05}
+  _velocityRange: {x: 0, y: 6}
